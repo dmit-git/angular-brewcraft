@@ -34,7 +34,7 @@
     "email-verification": "^0.4.5",
     "errorhandler": "^1.4.3",
     "express": "^4.13.4",
-    "express-jwt": "^0.3.2",
+    "express-jwt": "^6.0.0",
     "express-session": "^1.14.2",
     "finalhandler": "^0.5.1",
     "firebase": "^3.7.8",
